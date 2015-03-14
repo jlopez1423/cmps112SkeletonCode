@@ -1,0 +1,46 @@
+{
+  "name": "starter-kit",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests",
+    "externs",
+    "js",
+    "tmp",
+    "test"
+  ],
+  "dependencies": {
+    "purescript-arrays": "*",
+    "purescript-maybe": "*",
+    "purescript-foldable-traversable": "*",
+    "purescript-math": "*",
+    "purescript-canvas": "*",
+    "purescript-free-canvas": "*",
+    "purescript-refs": "*",
+    "purescript-lists": "*",
+    "purescript-control": "*",
+    "purescript-random": "*",
+    "purescript-maps": "*",
+    "purescript-transformers": "*",
+    "purescript-node-readline": "*",
+    "purescript-yargs": "*",
+    "purescript-node-readline": "*",
+    "purescript-globals": "*",
+    "purescript-json": "*",
+    "purescript-sets": "*",
+    "purescript-parsing": "*",
+    "purescript-identity": "*"
+  },
+  "devDependencies": {
+    "purescript-math": "*",
+    "purescript-quickcheck": "*"
+  },
+  "version": "0.0.0",
+  "homepage": "https://github.com/purescript/starter-kit",
+  "authors": [
+    "Dylan Woodbury <dwoodbur@ucsc.edu>"
+  ],
+  "license": "MIT"
+}
